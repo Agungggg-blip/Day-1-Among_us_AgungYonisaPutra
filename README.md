@@ -3,6 +3,7 @@
 ## Identitas Peserta
 
 **Nama:** Agung Yonisa Putra
+**Jurusan:** D4-Teknik Informatika
 
 ## Deskripsi Repository
 
