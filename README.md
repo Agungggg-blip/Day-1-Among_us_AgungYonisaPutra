@@ -2,8 +2,12 @@
 
 ## Identitas Peserta
 
-**Nama:** Agung Yonisa Putra
-**Jurusan:** D4-Teknik Informatika
+**Nama:** Agung Yonisa Putra  
+**Jurusan:** Teknik Informatika  
+**Kelompok:** 18 – Among Us
+
+---
+
 
 ## Deskripsi Repository
 
